@@ -16,7 +16,7 @@
     "@lingui/macro": "^5.2.0",
     "@lingui/react": "^5.1.2",
     "negotiator": "^0.6.3",
-    "next": "15.0.1",
+    "next": "15.5.29",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
